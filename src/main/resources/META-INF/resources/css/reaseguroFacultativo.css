@@ -1,0 +1,32 @@
+div#table2_length {
+    display: none !important;
+}
+
+div#table1_length {
+    display: none !important;
+}
+
+.top-label{top: 0 !important;}
+
+.disabledbutton {
+    pointer-events: none !important;
+    opacity: 0.4 !important;
+}
+
+
+.rea-input-check {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.radReaseConduct{
+	display:none;
+}
+
+.rea-input-check:hover{
+  color: #0080ff;
+}
+
+.rea-text-red {
+  color: #F44336;
+}
